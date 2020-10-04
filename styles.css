@@ -1,0 +1,39 @@
+#header
+{margin-top: 30px;
+  font-size: 11px;
+ background-color: lavender; 
+ font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+#btn
+{
+ border: none; 
+  color: black;
+  text-decoration: none;
+  align-self: right;
+  background-color: red;
+  display: inline-block;
+  padding: 5px 45px;
+float: right;
+}
+
+#lower heading
+{
+ 
+   justify-content: center;
+  
+  
+}
+#sub{
+ font-size:  14px;
+  
+}
+#make{
+ text-align: center; 
+  
+}
+#real{
+text-align: center;  
+  
+}
